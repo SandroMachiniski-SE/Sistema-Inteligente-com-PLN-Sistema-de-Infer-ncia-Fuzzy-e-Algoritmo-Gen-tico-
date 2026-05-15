@@ -1,0 +1,151 @@
+avaliacao,rating,destino,preco_medio,distancia_km,tipo,sentimento_real
+Maravilhoso! Paisagens de tirar o fôlego e pessoas muito simpáticas.,4,Rio de Janeiro,1481,1150,praia,positivo
+Perfeito! Tudo bem organizado e muito bonito.,4,Rio de Janeiro,1342,1150,praia,positivo
+Maravilhoso! Paisagens de tirar o fôlego e pessoas muito simpáticas.,4,Rio de Janeiro,1632,1150,praia,positivo
+Destino incrível! Superou minhas expectativas. Voltaria com certeza!,4,Rio de Janeiro,1295,1150,praia,positivo
+Perfeito! Tudo bem organizado e muito bonito.,4,Rio de Janeiro,1717,1150,praia,positivo
+Recomendo demais! Vale muito a pena visitar.,4,Rio de Janeiro,1774,1150,praia,positivo
+Perfeito! Tudo bem organizado e muito bonito.,5,Rio de Janeiro,1425,1150,praia,positivo
+Que lugar lindo! Ficamos apaixonados.,5,Rio de Janeiro,1206,1150,praia,positivo
+Experiência fantástica! Recomendo para todos os amigos.,5,Rio de Janeiro,1548,1150,praia,positivo
+Adorei! Voltaria mil vezes se pudesse.,4,Rio de Janeiro,1420,1150,praia,positivo
+Muito ruim! Atendimento péssimo.,1,Rio de Janeiro,1294,1150,praia,negativo
+Não recomendo. Muito caro pelo que oferece.,1,Rio de Janeiro,1567,1150,praia,negativo
+Muito ruim! Atendimento péssimo.,2,Rio de Janeiro,1244,1150,praia,negativo
+Terrível experiência. Dinheiro jogado fora.,1,Rio de Janeiro,1587,1150,praia,negativo
+Péssimo! Não vale o preço cobrado.,2,Rio de Janeiro,1570,1150,praia,negativo
+Horrível! Pior viagem que já fiz.,1,Rio de Janeiro,1271,1150,praia,negativo
+Muito caro e decepcionante. Não recomendo.,1,Rio de Janeiro,1496,1150,praia,negativo
+Péssimo! Não vale o preço cobrado.,1,Rio de Janeiro,1303,1150,praia,negativo
+Não recomendo. Muito caro pelo que oferece.,2,Rio de Janeiro,1664,1150,praia,negativo
+Muito ruim! Atendimento péssimo.,1,Rio de Janeiro,1579,1150,praia,negativo
+Nem bom nem ruim. Apenas ok.,3,Rio de Janeiro,1414,1150,praia,neutro
+"Razoável. Alguns pontos bons, outros nem tanto.",3,Rio de Janeiro,1273,1150,praia,neutro
+"Aceitável, mas poderia melhorar bastante.",3,Rio de Janeiro,1375,1150,praia,neutro
+Regular. Tem coisas legais e outras não.,3,Rio de Janeiro,1450,1150,praia,neutro
+"Mediano. Esperava mais, mas não foi ruim.",3,Rio de Janeiro,1673,1150,praia,neutro
+Lugar comum. Nada excepcional.,3,Rio de Janeiro,1476,1150,praia,neutro
+Regular. Tem coisas legais e outras não.,3,Rio de Janeiro,1424,1150,praia,neutro
+Nem bom nem ruim. Apenas ok.,3,Rio de Janeiro,1257,1150,praia,neutro
+Aceitável. Poderia ser melhor.,3,Rio de Janeiro,1232,1150,praia,neutro
+Nem bom nem ruim. Apenas ok.,3,Rio de Janeiro,1610,1150,praia,neutro
+Adorei! Voltaria mil vezes se pudesse.,4,Salvador,1068,2100,praia,positivo
+Recomendo demais! Vale muito a pena visitar.,5,Salvador,1068,2100,praia,positivo
+Que lugar lindo! Ficamos apaixonados.,5,Salvador,1412,2100,praia,positivo
+Que lugar lindo! Ficamos apaixonados.,4,Salvador,1095,2100,praia,positivo
+Experiência fantástica! Recomendo para todos os amigos.,4,Salvador,1341,2100,praia,positivo
+Simplesmente perfeito! Tudo funcionou muito bem.,5,Salvador,1342,2100,praia,positivo
+Recomendo demais! Vale muito a pena visitar.,5,Salvador,1419,2100,praia,positivo
+Recomendo demais! Vale muito a pena visitar.,5,Salvador,1145,2100,praia,positivo
+Perfeito! Tudo bem organizado e muito bonito.,4,Salvador,1220,2100,praia,positivo
+Que lugar lindo! Ficamos apaixonados.,4,Salvador,1346,2100,praia,positivo
+Muito caro e decepcionante. Não recomendo.,1,Salvador,1038,2100,praia,negativo
+Horrível! Tudo muito sujo e desorganizado.,2,Salvador,1265,2100,praia,negativo
+Péssimo! Não vale o preço cobrado.,2,Salvador,1155,2100,praia,negativo
+Horrível! Pior viagem que já fiz.,2,Salvador,1230,2100,praia,negativo
+Decepção total. Não volto mais.,1,Salvador,1308,2100,praia,negativo
+Péssimo! Não vale o preço cobrado.,2,Salvador,1353,2100,praia,negativo
+Muito ruim! Atendimento péssimo.,1,Salvador,1110,2100,praia,negativo
+Não recomendo. Muito caro pelo que oferece.,1,Salvador,1192,2100,praia,negativo
+Muito caro e decepcionante. Não recomendo.,2,Salvador,1216,2100,praia,negativo
+Horrível! Tudo muito sujo e desorganizado.,1,Salvador,1405,2100,praia,negativo
+"Razoável. Alguns pontos bons, outros nem tanto.",3,Salvador,1390,2100,praia,neutro
+Regular. Tem coisas legais e outras não.,3,Salvador,1271,2100,praia,neutro
+Aceitável. Poderia ser melhor.,3,Salvador,1038,2100,praia,neutro
+Nem bom nem ruim. Apenas ok.,3,Salvador,1350,2100,praia,neutro
+"Mediano. Esperava mais, mas não foi ruim.",3,Salvador,1236,2100,praia,neutro
+Regular. Tem coisas legais e outras não.,3,Salvador,1430,2100,praia,neutro
+"Lugar ok. Nada de especial, mas também não é ruim.",3,Salvador,1266,2100,praia,neutro
+Nem bom nem ruim. Apenas ok.,3,Salvador,1210,2100,praia,neutro
+"Lugar ok. Nada de especial, mas também não é ruim.",3,Salvador,1017,2100,praia,neutro
+Nem bom nem ruim. Apenas ok.,3,Salvador,1409,2100,praia,neutro
+Adorei! Voltaria mil vezes se pudesse.,4,Florianópolis,749,350,praia,positivo
+Perfeito! Tudo bem organizado e muito bonito.,4,Florianópolis,763,350,praia,positivo
+Que lugar lindo! Ficamos apaixonados.,4,Florianópolis,992,350,praia,positivo
+Experiência fantástica! Recomendo para todos os amigos.,4,Florianópolis,1057,350,praia,positivo
+Que lugar lindo! Ficamos apaixonados.,4,Florianópolis,855,350,praia,positivo
+Simplesmente perfeito! Tudo funcionou muito bem.,5,Florianópolis,828,350,praia,positivo
+Simplesmente perfeito! Tudo funcionou muito bem.,4,Florianópolis,879,350,praia,positivo
+Excelente custo-benefício! Muito bom mesmo.,5,Florianópolis,944,350,praia,positivo
+Simplesmente perfeito! Tudo funcionou muito bem.,5,Florianópolis,781,350,praia,positivo
+Perfeito! Tudo bem organizado e muito bonito.,4,Florianópolis,752,350,praia,positivo
+Muito ruim! Atendimento péssimo.,1,Florianópolis,1021,350,praia,negativo
+Muito decepcionante. Não vale a pena.,1,Florianópolis,1021,350,praia,negativo
+Não gostei. Esperava muito mais.,1,Florianópolis,756,350,praia,negativo
+Muito caro e decepcionante. Não recomendo.,1,Florianópolis,754,350,praia,negativo
+Muito caro e decepcionante. Não recomendo.,2,Florianópolis,756,350,praia,negativo
+Muito decepcionante. Não vale a pena.,1,Florianópolis,862,350,praia,negativo
+Terrível experiência. Dinheiro jogado fora.,1,Florianópolis,996,350,praia,negativo
+Horrível! Tudo muito sujo e desorganizado.,2,Florianópolis,844,350,praia,negativo
+Terrível experiência. Dinheiro jogado fora.,2,Florianópolis,817,350,praia,negativo
+Péssimo! Não vale o preço cobrado.,1,Florianópolis,1057,350,praia,negativo
+Lugar comum. Nada excepcional.,3,Florianópolis,901,350,praia,neutro
+Lugar comum. Nada excepcional.,3,Florianópolis,930,350,praia,neutro
+"Pode ir, mas não é imprescindível.",3,Florianópolis,747,350,praia,neutro
+Normal. Tem seus pontos bons e ruins.,3,Florianópolis,751,350,praia,neutro
+Lugar comum. Nada excepcional.,3,Florianópolis,893,350,praia,neutro
+Normal. Tem seus pontos bons e ruins.,3,Florianópolis,847,350,praia,neutro
+Aceitável. Poderia ser melhor.,3,Florianópolis,817,350,praia,neutro
+Regular. Tem coisas legais e outras não.,3,Florianópolis,949,350,praia,neutro
+"Mediano. Esperava mais, mas não foi ruim.",3,Florianópolis,936,350,praia,neutro
+"Mediano. Esperava mais, mas não foi ruim.",3,Florianópolis,862,350,praia,neutro
+Que lugar lindo! Ficamos apaixonados.,4,Manaus,1677,3500,natureza,positivo
+Que lugar lindo! Ficamos apaixonados.,4,Manaus,1651,3500,natureza,positivo
+Simplesmente perfeito! Tudo funcionou muito bem.,4,Manaus,1695,3500,natureza,positivo
+Perfeito! Tudo bem organizado e muito bonito.,4,Manaus,2016,3500,natureza,positivo
+Que lugar lindo! Ficamos apaixonados.,5,Manaus,1818,3500,natureza,positivo
+Excelente custo-benefício! Muito bom mesmo.,4,Manaus,1768,3500,natureza,positivo
+Excelente custo-benefício! Muito bom mesmo.,4,Manaus,1999,3500,natureza,positivo
+Adorei! Voltaria mil vezes se pudesse.,5,Manaus,1892,3500,natureza,positivo
+Excelente custo-benefício! Muito bom mesmo.,5,Manaus,1758,3500,natureza,positivo
+Perfeito! Tudo bem organizado e muito bonito.,5,Manaus,1822,3500,natureza,positivo
+Muito caro e decepcionante. Não recomendo.,1,Manaus,2365,3500,natureza,negativo
+Muito ruim! Atendimento péssimo.,1,Manaus,1651,3500,natureza,negativo
+Horrível! Pior viagem que já fiz.,2,Manaus,2114,3500,natureza,negativo
+Muito decepcionante. Não vale a pena.,1,Manaus,1658,3500,natureza,negativo
+Muito decepcionante. Não vale a pena.,1,Manaus,1790,3500,natureza,negativo
+Péssimo! Não vale o preço cobrado.,1,Manaus,2291,3500,natureza,negativo
+Não gostei. Esperava muito mais.,2,Manaus,1722,3500,natureza,negativo
+Horrível! Pior viagem que já fiz.,1,Manaus,2192,3500,natureza,negativo
+Horrível! Pior viagem que já fiz.,1,Manaus,2234,3500,natureza,negativo
+Péssimo! Não vale o preço cobrado.,2,Manaus,2273,3500,natureza,negativo
+"Aceitável, mas poderia melhorar bastante.",3,Manaus,2178,3500,natureza,neutro
+Regular. Tem coisas legais e outras não.,3,Manaus,1923,3500,natureza,neutro
+"Razoável. Alguns pontos bons, outros nem tanto.",3,Manaus,1809,3500,natureza,neutro
+Nem bom nem ruim. Apenas ok.,3,Manaus,1844,3500,natureza,neutro
+"Razoável. Alguns pontos bons, outros nem tanto.",3,Manaus,2005,3500,natureza,neutro
+"Mediano. Esperava mais, mas não foi ruim.",3,Manaus,2287,3500,natureza,neutro
+"Razoável. Alguns pontos bons, outros nem tanto.",3,Manaus,2068,3500,natureza,neutro
+Nem bom nem ruim. Apenas ok.,3,Manaus,2369,3500,natureza,neutro
+Normal. Tem seus pontos bons e ruins.,3,Manaus,1609,3500,natureza,neutro
+"Pode ir, mas não é imprescindível.",3,Manaus,2236,3500,natureza,neutro
+Recomendo demais! Vale muito a pena visitar.,4,Foz do Iguaçu,917,800,natureza,positivo
+Simplesmente perfeito! Tudo funcionou muito bem.,4,Foz do Iguaçu,1139,800,natureza,positivo
+Adorei! Voltaria mil vezes se pudesse.,4,Foz do Iguaçu,1058,800,natureza,positivo
+Maravilhoso! Paisagens de tirar o fôlego e pessoas muito simpáticas.,4,Foz do Iguaçu,1069,800,natureza,positivo
+Adorei! Voltaria mil vezes se pudesse.,4,Foz do Iguaçu,1104,800,natureza,positivo
+Simplesmente perfeito! Tudo funcionou muito bem.,5,Foz do Iguaçu,1193,800,natureza,positivo
+Simplesmente perfeito! Tudo funcionou muito bem.,4,Foz do Iguaçu,1221,800,natureza,positivo
+Simplesmente perfeito! Tudo funcionou muito bem.,5,Foz do Iguaçu,1219,800,natureza,positivo
+Maravilhoso! Paisagens de tirar o fôlego e pessoas muito simpáticas.,4,Foz do Iguaçu,1015,800,natureza,positivo
+Maravilhoso! Paisagens de tirar o fôlego e pessoas muito simpáticas.,4,Foz do Iguaçu,1260,800,natureza,positivo
+Muito decepcionante. Não vale a pena.,1,Foz do Iguaçu,1019,800,natureza,negativo
+Decepção total. Não volto mais.,1,Foz do Iguaçu,1247,800,natureza,negativo
+Muito ruim! Atendimento péssimo.,1,Foz do Iguaçu,1231,800,natureza,negativo
+Decepção total. Não volto mais.,2,Foz do Iguaçu,1008,800,natureza,negativo
+Muito caro e decepcionante. Não recomendo.,1,Foz do Iguaçu,1204,800,natureza,negativo
+Não recomendo. Muito caro pelo que oferece.,2,Foz do Iguaçu,902,800,natureza,negativo
+Muito caro e decepcionante. Não recomendo.,2,Foz do Iguaçu,1274,800,natureza,negativo
+Horrível! Tudo muito sujo e desorganizado.,2,Foz do Iguaçu,962,800,natureza,negativo
+Terrível experiência. Dinheiro jogado fora.,2,Foz do Iguaçu,1167,800,natureza,negativo
+Muito caro e decepcionante. Não recomendo.,1,Foz do Iguaçu,918,800,natureza,negativo
+"Mediano. Esperava mais, mas não foi ruim.",3,Foz do Iguaçu,1159,800,natureza,neutro
+"Lugar ok. Nada de especial, mas também não é ruim.",3,Foz do Iguaçu,1307,800,natureza,neutro
+Nem bom nem ruim. Apenas ok.,3,Foz do Iguaçu,1178,800,natureza,neutro
+Regular. Tem coisas legais e outras não.,3,Foz do Iguaçu,955,800,natureza,neutro
+Lugar comum. Nada excepcional.,3,Foz do Iguaçu,945,800,natureza,neutro
+"Lugar ok. Nada de especial, mas também não é ruim.",3,Foz do Iguaçu,1037,800,natureza,neutro
+Nem bom nem ruim. Apenas ok.,3,Foz do Iguaçu,1287,800,natureza,neutro
+"Lugar ok. Nada de especial, mas também não é ruim.",3,Foz do Iguaçu,1063,800,natureza,neutro
+Aceitável. Poderia ser melhor.,3,Foz do Iguaçu,1229,800,natureza,neutro
+Aceitável. Poderia ser melhor.,3,Foz do Iguaçu,1221,800,natureza,neutro

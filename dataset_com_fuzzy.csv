@@ -1,0 +1,151 @@
+avaliacao,rating,destino,preco_medio,distancia_km,tipo,sentimento_real,avaliacao_processada,sentimento_previsto,prob_positivo,prob_negativo,prob_neutro,score_fuzzy
+Maravilhoso! Paisagens de tirar o fôlego e pessoas muito simpáticas.,4,Rio de Janeiro,1481,1150,praia,positivo,maravilh pais tir fleg pesso simpá,positivo,0.8406796460679281,0.0890529057584168,0.0702674481736543,69.99999999999999
+Perfeito! Tudo bem organizado e muito bonito.,4,Rio de Janeiro,1342,1150,praia,positivo,perfeit tud bem organiz bonit,positivo,0.9603844052762208,0.0243781616601466,0.0152374330636326,69.99999999999999
+Maravilhoso! Paisagens de tirar o fôlego e pessoas muito simpáticas.,4,Rio de Janeiro,1632,1150,praia,positivo,maravilh pais tir fleg pesso simpá,positivo,0.8406796460679281,0.0890529057584168,0.0702674481736543,69.99999999999999
+Destino incrível! Superou minhas expectativas. Voltaria com certeza!,4,Rio de Janeiro,1295,1150,praia,positivo,destin incr super expect volt cert,positivo,0.4524221384912909,0.4169593460646973,0.1306185154440121,50.000000000000014
+Perfeito! Tudo bem organizado e muito bonito.,4,Rio de Janeiro,1717,1150,praia,positivo,perfeit tud bem organiz bonit,positivo,0.9603844052762208,0.0243781616601466,0.0152374330636326,69.99999999999999
+Recomendo demais! Vale muito a pena visitar.,4,Rio de Janeiro,1774,1150,praia,positivo,recom demal val pen visit,negativo,0.312948783744884,0.6463034388713509,0.0407477773837652,41.591889740563424
+Perfeito! Tudo bem organizado e muito bonito.,5,Rio de Janeiro,1425,1150,praia,positivo,perfeit tud bem organiz bonit,positivo,0.9603844052762208,0.0243781616601466,0.0152374330636326,69.99999999999999
+Que lugar lindo! Ficamos apaixonados.,5,Rio de Janeiro,1206,1150,praia,positivo,lug lind fic apaixon,positivo,0.9321044561074332,0.0304023141625371,0.0374932297300306,69.99999999999999
+Experiência fantástica! Recomendo para todos os amigos.,5,Rio de Janeiro,1548,1150,praia,positivo,experinc fant recom tod amig,negativo,0.4096990412259855,0.5228077064345579,0.067493252339457,50.000000000000014
+Adorei! Voltaria mil vezes se pudesse.,4,Rio de Janeiro,1420,1150,praia,positivo,ador volt mil vez pud,positivo,0.8048671720785336,0.1257198486486623,0.0694129792728038,69.99999999999999
+Muito ruim! Atendimento péssimo.,1,Rio de Janeiro,1294,1150,praia,negativo,ruim atend péss,negativo,0.0554556760040676,0.83478013033864,0.1097641936572924,10.780826558265586
+Não recomendo. Muito caro pelo que oferece.,1,Rio de Janeiro,1567,1150,praia,negativo,recom car oferec,negativo,0.1315598448777366,0.8153185737184016,0.0531215814038614,10.780826558265586
+Muito ruim! Atendimento péssimo.,2,Rio de Janeiro,1244,1150,praia,negativo,ruim atend péss,negativo,0.0554556760040676,0.83478013033864,0.1097641936572924,10.780826558265586
+Terrível experiência. Dinheiro jogado fora.,1,Rio de Janeiro,1587,1150,praia,negativo,terr experinc dinh jog,positivo,0.4489906958455358,0.4195722568162206,0.1314370473382432,50.000000000000014
+Péssimo! Não vale o preço cobrado.,2,Rio de Janeiro,1570,1150,praia,negativo,péss val preç cobr,negativo,0.0319950809398225,0.9426413702326024,0.0253635488275743,10.780826558265586
+Horrível! Pior viagem que já fiz.,1,Rio de Janeiro,1271,1150,praia,negativo,horr pi viag fiz,negativo,0.0592915022230245,0.8791007201983654,0.0616077775786095,10.780826558265586
+Muito caro e decepcionante. Não recomendo.,1,Rio de Janeiro,1496,1150,praia,negativo,car decepcion recom,negativo,0.0282564089657938,0.9547035520863548,0.0170400389478512,10.780826558265586
+Péssimo! Não vale o preço cobrado.,1,Rio de Janeiro,1303,1150,praia,negativo,péss val preç cobr,negativo,0.0319950809398225,0.9426413702326024,0.0253635488275743,10.780826558265586
+Não recomendo. Muito caro pelo que oferece.,2,Rio de Janeiro,1664,1150,praia,negativo,recom car oferec,negativo,0.1315598448777366,0.8153185737184016,0.0531215814038614,10.780826558265586
+Muito ruim! Atendimento péssimo.,1,Rio de Janeiro,1579,1150,praia,negativo,ruim atend péss,negativo,0.0554556760040676,0.83478013033864,0.1097641936572924,10.780826558265586
+Nem bom nem ruim. Apenas ok.,3,Rio de Janeiro,1414,1150,praia,neutro,bom ruim apen,neutro,0.0257003217363248,0.0271065261591891,0.947193152104486,10.780826558265586
+"Razoável. Alguns pontos bons, outros nem tanto.",3,Rio de Janeiro,1273,1150,praia,neutro,razoá algum pont bom outr tant,neutro,0.0306287037945569,0.0331347440202563,0.9362365521851868,10.780826558265586
+"Aceitável, mas poderia melhorar bastante.",3,Rio de Janeiro,1375,1150,praia,neutro,aceit pod melhor bast,neutro,0.0424491539140183,0.0522925122920905,0.9052583337938904,10.780826558265586
+Regular. Tem coisas legais e outras não.,3,Rio de Janeiro,1450,1150,praia,neutro,regul cois legal outr,neutro,0.0615485478127891,0.0794586475179145,0.8589928046692961,10.780826558265586
+"Mediano. Esperava mais, mas não foi ruim.",3,Rio de Janeiro,1673,1150,praia,neutro,medi esper ruim,neutro,0.0338152683068668,0.0885966718096039,0.8775880598835286,10.780826558265586
+Lugar comum. Nada excepcional.,3,Rio de Janeiro,1476,1150,praia,neutro,lug comum nad excepc,neutro,0.0585354508962379,0.0515930710525772,0.8898714780511843,10.780826558265586
+Regular. Tem coisas legais e outras não.,3,Rio de Janeiro,1424,1150,praia,neutro,regul cois legal outr,neutro,0.0615485478127891,0.0794586475179145,0.8589928046692961,10.780826558265586
+Nem bom nem ruim. Apenas ok.,3,Rio de Janeiro,1257,1150,praia,neutro,bom ruim apen,neutro,0.0257003217363248,0.0271065261591891,0.947193152104486,10.780826558265586
+Aceitável. Poderia ser melhor.,3,Rio de Janeiro,1232,1150,praia,neutro,aceit pod melhor,neutro,0.0424491539140183,0.0522925122920905,0.9052583337938904,10.780826558265586
+Nem bom nem ruim. Apenas ok.,3,Rio de Janeiro,1610,1150,praia,neutro,bom ruim apen,neutro,0.0257003217363248,0.0271065261591891,0.947193152104486,10.780826558265586
+Adorei! Voltaria mil vezes se pudesse.,4,Salvador,1068,2100,praia,positivo,ador volt mil vez pud,positivo,0.8048671720785336,0.1257198486486623,0.0694129792728038,70.0
+Recomendo demais! Vale muito a pena visitar.,5,Salvador,1068,2100,praia,positivo,recom demal val pen visit,negativo,0.312948783744884,0.6463034388713509,0.0407477773837652,41.591889740563424
+Que lugar lindo! Ficamos apaixonados.,5,Salvador,1412,2100,praia,positivo,lug lind fic apaixon,positivo,0.9321044561074332,0.0304023141625371,0.0374932297300306,70.0
+Que lugar lindo! Ficamos apaixonados.,4,Salvador,1095,2100,praia,positivo,lug lind fic apaixon,positivo,0.9321044561074332,0.0304023141625371,0.0374932297300306,69.99999999999999
+Experiência fantástica! Recomendo para todos os amigos.,4,Salvador,1341,2100,praia,positivo,experinc fant recom tod amig,negativo,0.4096990412259855,0.5228077064345579,0.067493252339457,49.999999999999986
+Simplesmente perfeito! Tudo funcionou muito bem.,5,Salvador,1342,2100,praia,positivo,simples perfeit tud funcion bem,positivo,0.9603844052762208,0.0243781616601465,0.0152374330636326,70.0
+Recomendo demais! Vale muito a pena visitar.,5,Salvador,1419,2100,praia,positivo,recom demal val pen visit,negativo,0.312948783744884,0.6463034388713509,0.0407477773837652,41.591889740563424
+Recomendo demais! Vale muito a pena visitar.,5,Salvador,1145,2100,praia,positivo,recom demal val pen visit,negativo,0.312948783744884,0.6463034388713509,0.0407477773837652,41.591889740563424
+Perfeito! Tudo bem organizado e muito bonito.,4,Salvador,1220,2100,praia,positivo,perfeit tud bem organiz bonit,positivo,0.9603844052762208,0.0243781616601466,0.0152374330636326,70.0
+Que lugar lindo! Ficamos apaixonados.,4,Salvador,1346,2100,praia,positivo,lug lind fic apaixon,positivo,0.9321044561074332,0.0304023141625371,0.0374932297300306,69.99999999999997
+Muito caro e decepcionante. Não recomendo.,1,Salvador,1038,2100,praia,negativo,car decepcion recom,negativo,0.0282564089657938,0.9547035520863548,0.0170400389478512,10.520080321285146
+Horrível! Tudo muito sujo e desorganizado.,2,Salvador,1265,2100,praia,negativo,horr tud suj desorgan,negativo,0.0979519309007751,0.8419733748590597,0.0600746942401646,9.036478227654698
+Péssimo! Não vale o preço cobrado.,2,Salvador,1155,2100,praia,negativo,péss val preç cobr,negativo,0.0319950809398225,0.9426413702326024,0.0253635488275743,9.689280018227386
+Horrível! Pior viagem que já fiz.,2,Salvador,1230,2100,praia,negativo,horr pi viag fiz,negativo,0.0592915022230245,0.8791007201983654,0.0616077775786095,9.228031418753066
+Decepção total. Não volto mais.,1,Salvador,1308,2100,praia,negativo,decepç total volt,positivo,0.4524221384912909,0.4169593460646973,0.1306185154440121,50.0
+Péssimo! Não vale o preço cobrado.,2,Salvador,1353,2100,praia,negativo,péss val preç cobr,negativo,0.0319950809398225,0.9426413702326024,0.0253635488275743,8.637052341597794
+Muito ruim! Atendimento péssimo.,1,Salvador,1110,2100,praia,negativo,ruim atend péss,negativo,0.0554556760040676,0.83478013033864,0.1097641936572924,9.994539100043685
+Não recomendo. Muito caro pelo que oferece.,1,Salvador,1192,2100,praia,negativo,recom car oferec,negativo,0.1315598448777366,0.8153185737184016,0.0531215814038614,9.453703703703704
+Muito caro e decepcionante. Não recomendo.,2,Salvador,1216,2100,praia,negativo,car decepcion recom,negativo,0.0282564089657938,0.9547035520863548,0.0170400389478512,9.309136662795197
+Horrível! Tudo muito sujo e desorganizado.,1,Salvador,1405,2100,praia,negativo,horr tud suj desorgan,negativo,0.0979519309007751,0.8419733748590597,0.0600746942401646,8.899488958804831
+"Razoável. Alguns pontos bons, outros nem tanto.",3,Salvador,1390,2100,praia,neutro,razoá algum pont bom outr tant,neutro,0.0306287037945569,0.0331347440202563,0.9362365521851868,8.511169900058789
+Regular. Tem coisas legais e outras não.,3,Salvador,1271,2100,praia,neutro,regul cois legal outr,neutro,0.0615485478127891,0.0794586475179145,0.8589928046692961,9.00534368752883
+Aceitável. Poderia ser melhor.,3,Salvador,1038,2100,praia,neutro,aceit pod melhor,neutro,0.0424491539140183,0.0522925122920905,0.9052583337938904,10.520080321285146
+Nem bom nem ruim. Apenas ok.,3,Salvador,1350,2100,praia,neutro,bom ruim apen,neutro,0.0257003217363248,0.0271065261591891,0.947193152104486,8.6484593837535
+"Mediano. Esperava mais, mas não foi ruim.",3,Salvador,1236,2100,praia,neutro,medi esper ruim,neutro,0.0338152683068668,0.0885966718096039,0.8775880598835286,9.194032799841926
+Regular. Tem coisas legais e outras não.,3,Salvador,1430,2100,praia,neutro,regul cois legal outr,neutro,0.0615485478127891,0.0794586475179145,0.8589928046692961,8.577650969388886
+"Lugar ok. Nada de especial, mas também não é ruim.",3,Salvador,1266,2100,praia,neutro,lug nad espec ruim,neutro,0.1087746750862689,0.0914843019256719,0.7997410229880592,9.031253186499438
+Nem bom nem ruim. Apenas ok.,3,Salvador,1210,2100,praia,neutro,bom ruim apen,neutro,0.0257003217363248,0.0271065261591891,0.947193152104486,9.344636844636845
+"Lugar ok. Nada de especial, mas também não é ruim.",3,Salvador,1017,2100,praia,neutro,lug nad espec ruim,neutro,0.1087746750862689,0.0914843019256719,0.7997410229880592,10.680966469428013
+Nem bom nem ruim. Apenas ok.,3,Salvador,1409,2100,praia,neutro,bom ruim apen,neutro,0.0257003217363248,0.0271065261591891,0.947193152104486,8.457964601769909
+Adorei! Voltaria mil vezes se pudesse.,4,Florianópolis,749,350,praia,positivo,ador volt mil vez pud,positivo,0.8048671720785336,0.1257198486486623,0.0694129792728038,88.99370592719649
+Perfeito! Tudo bem organizado e muito bonito.,4,Florianópolis,763,350,praia,positivo,perfeit tud bem organiz bonit,positivo,0.9603844052762208,0.0243781616601466,0.0152374330636326,88.91487521270558
+Que lugar lindo! Ficamos apaixonados.,4,Florianópolis,992,350,praia,positivo,lug lind fic apaixon,positivo,0.9321044561074332,0.0304023141625371,0.0374932297300306,89.12346263008519
+Experiência fantástica! Recomendo para todos os amigos.,4,Florianópolis,1057,350,praia,positivo,experinc fant recom tod amig,negativo,0.4096990412259855,0.5228077064345579,0.067493252339457,69.99999999999997
+Que lugar lindo! Ficamos apaixonados.,4,Florianópolis,855,350,praia,positivo,lug lind fic apaixon,positivo,0.9321044561074332,0.0304023141625371,0.0374932297300306,88.38263701707099
+Simplesmente perfeito! Tudo funcionou muito bem.,5,Florianópolis,828,350,praia,positivo,simples perfeit tud funcion bem,positivo,0.9603844052762208,0.0243781616601465,0.0152374330636326,88.54128373450034
+Simplesmente perfeito! Tudo funcionou muito bem.,4,Florianópolis,879,350,praia,positivo,simples perfeit tud funcion bem,positivo,0.9603844052762208,0.0243781616601465,0.0152374330636326,88.24001685293597
+Excelente custo-benefício! Muito bom mesmo.,5,Florianópolis,944,350,praia,positivo,excel custobenefíci bom,positivo,0.6224781969643903,0.1075946435008778,0.2699271595347321,70.0
+Simplesmente perfeito! Tudo funcionou muito bem.,5,Florianópolis,781,350,praia,positivo,simples perfeit tud funcion bem,positivo,0.9603844052762208,0.0243781616601465,0.0152374330636326,88.81264738910724
+Perfeito! Tudo bem organizado e muito bonito.,4,Florianópolis,752,350,praia,positivo,perfeit tud bem organiz bonit,positivo,0.9603844052762208,0.0243781616601466,0.0152374330636326,88.9768645357686
+Muito ruim! Atendimento péssimo.,1,Florianópolis,1021,350,praia,negativo,ruim atend péss,negativo,0.0554556760040676,0.83478013033864,0.1097641936572924,29.999999999999986
+Muito decepcionante. Não vale a pena.,1,Florianópolis,1021,350,praia,negativo,decepcion val pen,negativo,0.13425337527903,0.8251050131113449,0.0406416116096259,29.999999999999986
+Não gostei. Esperava muito mais.,1,Florianópolis,756,350,praia,negativo,gost esper,neutro,0.126423988587087,0.4049989359155954,0.4685770754973178,50.000000000000036
+Muito caro e decepcionante. Não recomendo.,1,Florianópolis,754,350,praia,negativo,car decepcion recom,negativo,0.0282564089657938,0.9547035520863548,0.0170400389478512,50.0
+Muito caro e decepcionante. Não recomendo.,2,Florianópolis,756,350,praia,negativo,car decepcion recom,negativo,0.0282564089657938,0.9547035520863548,0.0170400389478512,50.000000000000036
+Muito decepcionante. Não vale a pena.,1,Florianópolis,862,350,praia,negativo,decepcion val pen,negativo,0.13425337527903,0.8251050131113449,0.0406416116096259,39.89026733337407
+Terrível experiência. Dinheiro jogado fora.,1,Florianópolis,996,350,praia,negativo,terr experinc dinh jog,positivo,0.4489906958455358,0.4195722568162206,0.1314370473382432,69.99999999999997
+Horrível! Tudo muito sujo e desorganizado.,2,Florianópolis,844,350,praia,negativo,horr tud suj desorgan,negativo,0.0979519309007751,0.8419733748590597,0.0600746942401646,42.21703880584206
+Terrível experiência. Dinheiro jogado fora.,2,Florianópolis,817,350,praia,negativo,terr experinc dinh jog,positivo,0.4489906958455358,0.4195722568162206,0.1314370473382432,70.00000000000003
+Péssimo! Não vale o preço cobrado.,1,Florianópolis,1057,350,praia,negativo,péss val preç cobr,negativo,0.0319950809398225,0.9426413702326024,0.0253635488275743,29.999999999999993
+Lugar comum. Nada excepcional.,3,Florianópolis,901,350,praia,neutro,lug comum nad excepc,neutro,0.0585354508962379,0.0515930710525772,0.8898714780511843,35.98779261352568
+Lugar comum. Nada excepcional.,3,Florianópolis,930,350,praia,neutro,lug comum nad excepc,neutro,0.0585354508962379,0.0515930710525772,0.8898714780511843,33.83393963418461
+"Pode ir, mas não é imprescindível.",3,Florianópolis,747,350,praia,neutro,pod imprescind,neutro,0.149427578253488,0.1595636262428134,0.6910087955036985,49.99999999999999
+Normal. Tem seus pontos bons e ruins.,3,Florianópolis,751,350,praia,neutro,norm pont bom ruim,neutro,0.039551924120013,0.0418792422067152,0.9185688336732716,50.0
+Lugar comum. Nada excepcional.,3,Florianópolis,893,350,praia,neutro,lug comum nad excepc,neutro,0.0585354508962379,0.0515930710525772,0.8898714780511843,36.66921987429689
+Normal. Tem seus pontos bons e ruins.,3,Florianópolis,847,350,praia,neutro,norm pont bom ruim,neutro,0.039551924120013,0.0418792422067152,0.9185688336732716,41.8032063957967
+Aceitável. Poderia ser melhor.,3,Florianópolis,817,350,praia,neutro,aceit pod melhor,neutro,0.0424491539140183,0.0522925122920905,0.9052583337938904,46.542155604589766
+Regular. Tem coisas legais e outras não.,3,Florianópolis,949,350,praia,neutro,regul cois legal outr,neutro,0.0615485478127891,0.0794586475179145,0.8589928046692961,32.652630601406685
+"Mediano. Esperava mais, mas não foi ruim.",3,Florianópolis,936,350,praia,neutro,medi esper ruim,neutro,0.0338152683068668,0.0885966718096039,0.8775880598835286,33.44236287980691
+"Mediano. Esperava mais, mas não foi ruim.",3,Florianópolis,862,350,praia,neutro,medi esper ruim,neutro,0.0338152683068668,0.0885966718096039,0.8775880598835286,39.89026733337407
+Que lugar lindo! Ficamos apaixonados.,4,Manaus,1677,3500,natureza,positivo,lug lind fic apaixon,positivo,0.9321044561074332,0.0304023141625371,0.0374932297300306,49.99999999999999
+Que lugar lindo! Ficamos apaixonados.,4,Manaus,1651,3500,natureza,positivo,lug lind fic apaixon,positivo,0.9321044561074332,0.0304023141625371,0.0374932297300306,49.99999999999999
+Simplesmente perfeito! Tudo funcionou muito bem.,4,Manaus,1695,3500,natureza,positivo,simples perfeit tud funcion bem,positivo,0.9603844052762208,0.0243781616601465,0.0152374330636326,49.99999999999999
+Perfeito! Tudo bem organizado e muito bonito.,4,Manaus,2016,3500,natureza,positivo,perfeit tud bem organiz bonit,positivo,0.9603844052762208,0.0243781616601466,0.0152374330636326,48.18789779799253
+Que lugar lindo! Ficamos apaixonados.,5,Manaus,1818,3500,natureza,positivo,lug lind fic apaixon,positivo,0.9321044561074332,0.0304023141625371,0.0374932297300306,49.99999999999999
+Excelente custo-benefício! Muito bom mesmo.,4,Manaus,1768,3500,natureza,positivo,excel custobenefíci bom,positivo,0.6224781969643903,0.1075946435008778,0.2699271595347321,30.0
+Excelente custo-benefício! Muito bom mesmo.,4,Manaus,1999,3500,natureza,positivo,excel custobenefíci bom,positivo,0.6224781969643903,0.1075946435008778,0.2699271595347321,29.999999999999986
+Adorei! Voltaria mil vezes se pudesse.,5,Manaus,1892,3500,natureza,positivo,ador volt mil vez pud,positivo,0.8048671720785336,0.1257198486486623,0.0694129792728038,50.00000000000001
+Excelente custo-benefício! Muito bom mesmo.,5,Manaus,1758,3500,natureza,positivo,excel custobenefíci bom,positivo,0.6224781969643903,0.1075946435008778,0.2699271595347321,30.0
+Perfeito! Tudo bem organizado e muito bonito.,5,Manaus,1822,3500,natureza,positivo,perfeit tud bem organiz bonit,positivo,0.9603844052762208,0.0243781616601466,0.0152374330636326,49.99999999999999
+Muito caro e decepcionante. Não recomendo.,1,Manaus,2365,3500,natureza,negativo,car decepcion recom,negativo,0.0282564089657938,0.9547035520863548,0.0170400389478512,10.388506625891948
+Muito ruim! Atendimento péssimo.,1,Manaus,1651,3500,natureza,negativo,ruim atend péss,negativo,0.0554556760040676,0.83478013033864,0.1097641936572924,9.72222222222222
+Horrível! Pior viagem que já fiz.,2,Manaus,2114,3500,natureza,negativo,horr pi viag fiz,negativo,0.0592915022230245,0.8791007201983654,0.0616077775786095,11.74889468725085
+Muito decepcionante. Não vale a pena.,1,Manaus,1658,3500,natureza,negativo,decepcion val pen,negativo,0.13425337527903,0.8251050131113449,0.0406416116096259,9.72222222222222
+Muito decepcionante. Não vale a pena.,1,Manaus,1790,3500,natureza,negativo,decepcion val pen,negativo,0.13425337527903,0.8251050131113449,0.0406416116096259,9.72222222222222
+Péssimo! Não vale o preço cobrado.,1,Manaus,2291,3500,natureza,negativo,péss val preç cobr,negativo,0.0319950809398225,0.9426413702326024,0.0253635488275743,10.784479227618494
+Não gostei. Esperava muito mais.,2,Manaus,1722,3500,natureza,negativo,gost esper,neutro,0.126423988587087,0.4049989359155954,0.4685770754973178,9.72222222222222
+Horrível! Pior viagem que já fiz.,1,Manaus,2192,3500,natureza,negativo,horr pi viag fiz,negativo,0.0592915022230245,0.8791007201983654,0.0616077775786095,11.342477876106196
+Horrível! Pior viagem que já fiz.,1,Manaus,2234,3500,natureza,negativo,horr pi viag fiz,negativo,0.0592915022230245,0.8791007201983654,0.0616077775786095,11.10209513023783
+Péssimo! Não vale o preço cobrado.,2,Manaus,2273,3500,natureza,negativo,péss val preç cobr,negativo,0.0319950809398225,0.9426413702326024,0.0253635488275743,10.883656629994213
+"Aceitável, mas poderia melhorar bastante.",3,Manaus,2178,3500,natureza,neutro,aceit pod melhor bast,neutro,0.0424491539140183,0.0522925122920905,0.9052583337938904,11.423728503476037
+Regular. Tem coisas legais e outras não.,3,Manaus,1923,3500,natureza,neutro,regul cois legal outr,neutro,0.0615485478127891,0.0794586475179145,0.8589928046692961,10.230133994826783
+"Razoável. Alguns pontos bons, outros nem tanto.",3,Manaus,1809,3500,natureza,neutro,razoá algum pont bom outr tant,neutro,0.0306287037945569,0.0331347440202563,0.9362365521851868,9.72222222222222
+Nem bom nem ruim. Apenas ok.,3,Manaus,1844,3500,natureza,neutro,bom ruim apen,neutro,0.0257003217363248,0.0271065261591891,0.947193152104486,9.72222222222222
+"Razoável. Alguns pontos bons, outros nem tanto.",3,Manaus,2005,3500,natureza,neutro,razoá algum pont bom outr tant,neutro,0.0306287037945569,0.0331347440202563,0.9362365521851868,10.852845287492597
+"Mediano. Esperava mais, mas não foi ruim.",3,Manaus,2287,3500,natureza,neutro,medi esper ruim,neutro,0.0338152683068668,0.0885966718096039,0.8775880598835286,10.806426347538435
+"Razoável. Alguns pontos bons, outros nem tanto.",3,Manaus,2068,3500,natureza,neutro,razoá algum pont bom outr tant,neutro,0.0306287037945569,0.0331347440202563,0.9362365521851868,11.362325371789098
+Nem bom nem ruim. Apenas ok.,3,Manaus,2369,3500,natureza,neutro,bom ruim apen,neutro,0.0257003217363248,0.0271065261591891,0.947193152104486,10.36767320662171
+Normal. Tem seus pontos bons e ruins.,3,Manaus,1609,3500,natureza,neutro,norm pont bom ruim,neutro,0.039551924120013,0.0418792422067152,0.9185688336732716,9.72222222222222
+"Pode ir, mas não é imprescindível.",3,Manaus,2236,3500,natureza,neutro,pod imprescind,neutro,0.149427578253488,0.1595636262428134,0.6910087955036985,11.090778533635689
+Recomendo demais! Vale muito a pena visitar.,4,Foz do Iguaçu,917,800,natureza,positivo,recom demal val pen visit,negativo,0.312948783744884,0.6463034388713509,0.0407477773837652,59.25873122437494
+Simplesmente perfeito! Tudo funcionou muito bem.,4,Foz do Iguaçu,1139,800,natureza,positivo,simples perfeit tud funcion bem,positivo,0.9603844052762208,0.0243781616601465,0.0152374330636326,88.70370370370367
+Adorei! Voltaria mil vezes se pudesse.,4,Foz do Iguaçu,1058,800,natureza,positivo,ador volt mil vez pud,positivo,0.8048671720785336,0.1257198486486623,0.0694129792728038,88.70370370370367
+Maravilhoso! Paisagens de tirar o fôlego e pessoas muito simpáticas.,4,Foz do Iguaçu,1069,800,natureza,positivo,maravilh pais tir fleg pesso simpá,positivo,0.8406796460679281,0.0890529057584168,0.0702674481736543,88.70370370370367
+Adorei! Voltaria mil vezes se pudesse.,4,Foz do Iguaçu,1104,800,natureza,positivo,ador volt mil vez pud,positivo,0.8048671720785336,0.1257198486486623,0.0694129792728038,88.70370370370367
+Simplesmente perfeito! Tudo funcionou muito bem.,5,Foz do Iguaçu,1193,800,natureza,positivo,simples perfeit tud funcion bem,positivo,0.9603844052762208,0.0243781616601465,0.0152374330636326,88.70370370370367
+Simplesmente perfeito! Tudo funcionou muito bem.,4,Foz do Iguaçu,1221,800,natureza,positivo,simples perfeit tud funcion bem,positivo,0.9603844052762208,0.0243781616601465,0.0152374330636326,88.70370370370367
+Simplesmente perfeito! Tudo funcionou muito bem.,5,Foz do Iguaçu,1219,800,natureza,positivo,simples perfeit tud funcion bem,positivo,0.9603844052762208,0.0243781616601465,0.0152374330636326,88.70370370370367
+Maravilhoso! Paisagens de tirar o fôlego e pessoas muito simpáticas.,4,Foz do Iguaçu,1015,800,natureza,positivo,maravilh pais tir fleg pesso simpá,positivo,0.8406796460679281,0.0890529057584168,0.0702674481736543,88.70370370370367
+Maravilhoso! Paisagens de tirar o fôlego e pessoas muito simpáticas.,4,Foz do Iguaçu,1260,800,natureza,positivo,maravilh pais tir fleg pesso simpá,positivo,0.8406796460679281,0.0890529057584168,0.0702674481736543,88.70370370370367
+Muito decepcionante. Não vale a pena.,1,Foz do Iguaçu,1019,800,natureza,negativo,decepcion val pen,negativo,0.13425337527903,0.8251050131113449,0.0406416116096259,29.999999999999993
+Decepção total. Não volto mais.,1,Foz do Iguaçu,1247,800,natureza,negativo,decepç total volt,positivo,0.4524221384912909,0.4169593460646973,0.1306185154440121,69.99999999999999
+Muito ruim! Atendimento péssimo.,1,Foz do Iguaçu,1231,800,natureza,negativo,ruim atend péss,negativo,0.0554556760040676,0.83478013033864,0.1097641936572924,29.999999999999993
+Decepção total. Não volto mais.,2,Foz do Iguaçu,1008,800,natureza,negativo,decepç total volt,positivo,0.4524221384912909,0.4169593460646973,0.1306185154440121,69.99999999999999
+Muito caro e decepcionante. Não recomendo.,1,Foz do Iguaçu,1204,800,natureza,negativo,car decepcion recom,negativo,0.0282564089657938,0.9547035520863548,0.0170400389478512,29.999999999999993
+Não recomendo. Muito caro pelo que oferece.,2,Foz do Iguaçu,902,800,natureza,negativo,recom car oferec,negativo,0.1315598448777366,0.8153185737184016,0.0531215814038614,35.90565814545838
+Muito caro e decepcionante. Não recomendo.,2,Foz do Iguaçu,1274,800,natureza,negativo,car decepcion recom,negativo,0.0282564089657938,0.9547035520863548,0.0170400389478512,29.999999999999993
+Horrível! Tudo muito sujo e desorganizado.,2,Foz do Iguaçu,962,800,natureza,negativo,horr tud suj desorgan,negativo,0.0979519309007751,0.8419733748590597,0.0600746942401646,32.15453948490246
+Terrível experiência. Dinheiro jogado fora.,2,Foz do Iguaçu,1167,800,natureza,negativo,terr experinc dinh jog,positivo,0.4489906958455358,0.4195722568162206,0.1314370473382432,69.99999999999999
+Muito caro e decepcionante. Não recomendo.,1,Foz do Iguaçu,918,800,natureza,negativo,car decepcion recom,negativo,0.0282564089657938,0.9547035520863548,0.0170400389478512,34.67257065429043
+"Mediano. Esperava mais, mas não foi ruim.",3,Foz do Iguaçu,1159,800,natureza,neutro,medi esper ruim,neutro,0.0338152683068668,0.0885966718096039,0.8775880598835286,29.999999999999993
+"Lugar ok. Nada de especial, mas também não é ruim.",3,Foz do Iguaçu,1307,800,natureza,neutro,lug nad espec ruim,neutro,0.1087746750862689,0.0914843019256719,0.7997410229880592,29.999999999999993
+Nem bom nem ruim. Apenas ok.,3,Foz do Iguaçu,1178,800,natureza,neutro,bom ruim apen,neutro,0.0257003217363248,0.0271065261591891,0.947193152104486,29.999999999999993
+Regular. Tem coisas legais e outras não.,3,Foz do Iguaçu,955,800,natureza,neutro,regul cois legal outr,neutro,0.0615485478127891,0.0794586475179145,0.8589928046692961,32.49947945543029
+Lugar comum. Nada excepcional.,3,Foz do Iguaçu,945,800,natureza,neutro,lug comum nad excepc,neutro,0.0585354508962379,0.0515930710525772,0.8898714780511843,32.968373113689665
+"Lugar ok. Nada de especial, mas também não é ruim.",3,Foz do Iguaçu,1037,800,natureza,neutro,lug nad espec ruim,neutro,0.1087746750862689,0.0914843019256719,0.7997410229880592,29.999999999999993
+Nem bom nem ruim. Apenas ok.,3,Foz do Iguaçu,1287,800,natureza,neutro,bom ruim apen,neutro,0.0257003217363248,0.0271065261591891,0.947193152104486,29.999999999999993
+"Lugar ok. Nada de especial, mas também não é ruim.",3,Foz do Iguaçu,1063,800,natureza,neutro,lug nad espec ruim,neutro,0.1087746750862689,0.0914843019256719,0.7997410229880592,29.999999999999993
+Aceitável. Poderia ser melhor.,3,Foz do Iguaçu,1229,800,natureza,neutro,aceit pod melhor,neutro,0.0424491539140183,0.0522925122920905,0.9052583337938904,29.999999999999993
+Aceitável. Poderia ser melhor.,3,Foz do Iguaçu,1221,800,natureza,neutro,aceit pod melhor,neutro,0.0424491539140183,0.0522925122920905,0.9052583337938904,29.999999999999993
