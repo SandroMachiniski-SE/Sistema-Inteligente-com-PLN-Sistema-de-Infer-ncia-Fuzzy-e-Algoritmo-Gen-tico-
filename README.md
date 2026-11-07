@@ -23,6 +23,8 @@ Este projeto implementa um pipeline completo de análise de avaliações turíst
 
 ## 📊 Resultados
 
+Projeto acadêmico com dados de exemplo gerados. O README registra acurácia de 83,33% para o classificador e 150 avaliações analisadas. Esse número não é uma validação em produção nem uma estimativa de desempenho com avaliações reais.
+
 ### Ranking de Destinos (Score 0-100)
 
 | Posição | Destino | Score | Sentimento | Preço Médio | Distância |
@@ -51,8 +53,8 @@ Este projeto implementa um pipeline completo de análise de avaliações turíst
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/sistema-recomendacao-destinos.git
-cd sistema-recomendacao-destinos
+git clone https://github.com/SandroMachiniski-SE/Sistema-Inteligente-com-PLN-Sistema-de-Infer-ncia-Fuzzy-e-Algoritmo-Gen-tico-.git
+cd Sistema-Inteligente-com-PLN-Sistema-de-Infer-ncia-Fuzzy-e-Algoritmo-Gen-tico-
 ```
 
 2. Crie um ambiente virtual (opcional, mas recomendado):
@@ -324,21 +326,3 @@ Este projeto demonstra:
 ---
 
 **Última atualização:** Maio de 2026
-Agora crie o arquivo requirements.txt:
-
-pandas==2.0.3
-numpy==1.24.3
-nltk==3.8.1
-scikit-learn==1.3.0
-scikit-fuzzy==0.5.0
-matplotlib==3.7.1
-seaborn==0.12.2
-flask==2.3.2
-plotly==5.14.0
-networkx==3.1
-Para gerar o arquivo requirements.txt automaticamente:
-
-bash
-
-pip freeze > requirements.txt
-  
